@@ -23,3 +23,28 @@ Can video game success be predicted using market, genre, and review-related feat
 - notebooks/: Jupyter notebooks for analysis
 - figures/: visual outputs and plots
 - scripts/: helper scripts and utility code
+
+- # GameScope: Predicting Video Game Success from Market and Review Data
+
+DSA 210 – Introduction to Data Science
+
+## Project Motivation
+This project investigates which factors contribute to the success of video games and whether game success can be predicted using market and review-based features.
+
+## Research Question
+Can video game success be predicted using variables such as price, genre, release year, and user review metrics?
+
+## Planned Methods
+- Data collection
+- Data cleaning
+- Exploratory data analysis
+- Hypothesis testing
+- Machine learning modeling
+- Data visualization
+
+## Repository Structure
+- data/: raw and processed datasets
+- notebooks/: Jupyter notebooks
+- figures/: plots and visuals
+- scripts/: utility scripts
+- proposal.md: project proposal

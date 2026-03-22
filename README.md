@@ -24,6 +24,18 @@ Can video game success be predicted using market, genre, and review-related feat
 - figures/: visual outputs and plots
 - scripts/: helper scripts and utility code
 
-- # GameScope: Predicting Video Game Success from Market and Review Data
+# Data Sources
 
-DSA 210 – Introduction to Data Science
+## Planned Main Dataset
+- Steam Store Data (Kaggle): includes pricing, discount, and review-related variables.
+
+## Planned Supporting Dataset
+- Steam Games Dataset (Kaggle / Steam API + Steam Spy): includes metadata such as genre and release information.
+
+## Planned Enrichment
+The datasets will be merged and enriched through feature engineering, including:
+- game_age
+- genre_count
+- positive_review_ratio
+- price_category
+- success_level

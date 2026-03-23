@@ -39,3 +39,21 @@ The datasets will be merged and enriched through feature engineering, including:
 - positive_review_ratio
 - price_category
 - success_level
+
+- # Data Sources
+
+## Main Dataset
+- steam.csv  
+Contains core game-level information such as release date, genres, tags, ratings, playtime, owners, and price.
+
+## Enrichment Dataset
+- steamspy_tag_data.csv  
+Contains tag-level information for Steam games and will be used for feature enrichment.
+
+## Optional Supporting Datasets
+- steam_description_data.csv
+- steam_media_data.csv
+- steam_requirements_data.csv
+- steam_support_info.csv
+
+These supporting datasets may be used later if additional variables are needed.

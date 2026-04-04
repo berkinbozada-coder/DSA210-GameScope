@@ -10,3 +10,10 @@ The main dataset for this project will be the publicly available `steam.csv` dat
 The data will be collected from publicly available CSV files and loaded into Python using pandas. After collection, the dataset will be cleaned by handling missing values, removing duplicates, standardizing selected fields, and creating additional variables such as release year, game age, total review count, and positive review ratio. The main dataset contains around 27,000 game records, while the tag dataset contains tens of thousands of rows and a large set of tag-related variables.
 
 The project will include exploratory data analysis, data visualization, hypothesis testing, and machine learning methods. The main goal is to identify which variables are most strongly related to game success and to evaluate whether video game success can be predicted using price, ratings, release information, playtime, ownership, and tag-based features.
+
+The data for this project will be obtained from publicly available Steam-related datasets hosted on Kaggle. The main dataset is the Steam Store Data dataset, which includes variables such as game name, release date, genres, Steam tags, positive ratings, negative ratings, average playtime, owners, and price. 
+Source platform: Kaggle  
+Main dataset: Steam Store Data  
+
+Dataset link:  
+(https://www.kaggle.com/datasets/amanbarthwal/steam-store-data)  

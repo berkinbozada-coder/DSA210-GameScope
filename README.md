@@ -49,3 +49,10 @@ Contains core game-level information such as release date, genres, tags, ratings
 ## Enrichment Dataset
 - steamspy_tag_data.csv  
 Contains tag-level information for Steam games and will be used for feature enrichment.
+
+## Current Progress
+- Project proposal completed
+- Raw datasets uploaded
+- Cleaned dataset created
+- Exploratory data analysis completed
+- Hypothesis testing completed for the April 14 milestone

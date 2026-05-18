@@ -58,3 +58,4 @@ Contains tag-level information for Steam games and will be used for feature enri
 - Hypothesis testing completed for the April 14 milestone
 
 - Machine learning models were extended with additional engineered features, and the interpretation of weak R² scores was clarified in response to feedback.
+- Final report completed and uploaded.
